@@ -7,6 +7,8 @@ This project focuses on analyzing airline data to extract insights related to fl
 - Matplotlib & Seaborn
 - Jupyter Notebook
 
+## Dataset used
+<a href=https://github.com/Bharath-2112/Airline-Data-Analysis-Python-/blob/main/Airline%20data.xlsx>Dataset</a>
 
 ##  How to Run
 - Clone this repository

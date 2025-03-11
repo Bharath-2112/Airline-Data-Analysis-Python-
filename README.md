@@ -8,3 +8,8 @@ This project focuses on analyzing airline data to extract insights related to fl
 - Jupyter Notebook
 
 
+##  How to Run
+- Clone this repository
+- Install dependencies: pip install -r requirements.txt
+- Open Airline_Data.ipynb in Jupyter Notebook
+- Run the cells to explore the insights
